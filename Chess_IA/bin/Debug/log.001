@@ -1,0 +1,44 @@
+
+Crafty v23.4 PS (1 cpus)
+
+White(1): st 1
+search time set to 1.00.
+White(1): st 0.2
+search time set to 0.20.
+White(1): b1b3
+Illegal move: b1b3
+White(1): b2b3
+              time used:  24.74
+              time surplus   0.00  time limit 0.20 (+0.00) (0.20)
+              depth   time  score   variation (1)
+               13     0.34  -0.05   1. ... e6 2. Nf3 Nf6 3. e3 Bd6 4. Bd3
+                                    O-O 5. O-O Na6 6. Nc3 Nc5 7. Nb5 Nd5
+                                    8. Nxd6 Nxd3 9. Nxc8 Nxc1 10. Rxc1
+                                    Rxc8
+              time=0.34  mat=0  n=294621  fh=91%  nps=866K
+              extensions=524 qchecks=1K reduced=56K pruned=35K
+              predicted=0  evals=145K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.34
+Black(1): e6
+              time used:   0.35
+White(2): Nf3 [pondering]
+              time surplus  29.65  time limit 0.20 (+0.00) (0.20)
+              depth   time  score   variation (12)
+               12->   0.31  -0.13   2. ... Nf6 3. e3 Bd6 4. Nc3 O-O 5.
+                                    Bc4 Nc6 6. O-O a6 7. Bd3 Ng4 8. g3
+               13     0.51  -0.06   2. ... Nf6 3. e3 Nc6 4. Nc3 d5 5. Bd3
+                                    Bc5 6. O-O O-O 7. a3 Bd7 8. Ng5 g6
+               13->   1.17  -0.06   2. ... Nf6 3. e3 Nc6 4. Nc3 d5 5. Bd3
+                                    Bc5 6. O-O O-O 7. a3 Bd7 8. Ng5 g6
+               14     1.46  -0.10   2. ... Nf6 3. e3 Nc6 4. Nc3 d5 5. Bd3
+                                    Bc5 6. O-O O-O 7. a3 Bd7 8. Bb2 d4
+                                    9. Nb5
+               14->   2.09  -0.10   2. ... Nf6 3. e3 Nc6 4. Nc3 d5 5. Bd3
+                                    Bc5 6. O-O O-O 7. a3 Bd7 8. Bb2 d4
+                                    9. Nb5
+               15     3.78  -0.06   2. ... Nf6 3. e3 d5 4. Nc3 Nc6 5. Bd3
+                                    Bc5 6. O-O O-O 7. a3 e5 8. b4 Bd6 9.
+                                    Nb5 Be7
+               15->   4.54  -0.06   2. ... Nf6 3. e3 d5 4. Nc3 Nc6 5. Bd3
+                                    Bc5 6. O-O O-O 7. a3 e5 8. b4 Bd6 9.
+                                    Nb5 Be7

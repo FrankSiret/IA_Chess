@@ -1,0 +1,48 @@
+
+Crafty v23.4 PS (1 cpus)
+
+White(1): b3
+              time used:   3.61
+              time surplus   0.00  time limit 30.00 (+0.00) (3:00)
+              depth   time  score   variation (1)
+               13     0.35  -0.05   1. ... e6 2. Nf3 Nf6 3. e3 Bd6 4. Bd3
+                                    O-O 5. O-O Na6 6. Nc3 Nc5 7. Nb5 Nd5
+                                    8. Nxd6 Nxd3 9. Nxc8 Nxc1 10. Rxc1
+                                    Rxc8
+               13     0.48  -0.08   1. ... Nc6 2. Nf3 Nf6 3. Nc3 d5 4.
+                                    e3 e5 5. Bb5 d4 6. exd4 exd4 7. Bxc6+
+                                    bxc6
+               13->   0.54  -0.08   1. ... Nc6 2. Nf3 Nf6 3. Nc3 d5 4.
+                                    e3 e5 5. Bb5 d4 6. exd4 exd4 7. Bxc6+
+                                    bxc6
+               14     0.70  -0.10   1. ... Nc6 2. Nf3 Nf6 3. Nc3 d5 4.
+                                    e3 e5 5. Bb5 d4 6. Bxc6+ bxc6 7. Ne2
+                                    dxe3 8. Nxe5
+               14     1.43  -0.24   1. ... e5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3
+                                    Bb4 5. Bd3 O-O 6. O-O d6 7. Nd5 Nxd5
+                                    8. exd5
+               14->   1.53  -0.24   1. ... e5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3
+                                    Bb4 5. Bd3 O-O 6. O-O d6 7. Nd5 Nxd5
+                                    8. exd5
+               15     2.15  -0.21   1. ... e5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3
+                                    Bb4 5. Bd3 O-O 6. O-O d6 7. Nd5 Bc5
+                                    8. Bb2 Bg4
+               15->   2.53  -0.21   1. ... e5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3
+                                    Bb4 5. Bd3 O-O 6. O-O d6 7. Nd5 Bc5
+                                    8. Bb2 Bg4
+               16     5.96  -0.22   1. ... e5 2. e4 Nf6 3. Bd3 Na6 4. Nf3
+                                    Nc5 5. Nc3 Nxd3+ 6. cxd3 Bd6 7. O-O
+                                    O-O 8. Nb5 Qe7 9. Nxd6 Qxd6
+               16->   6.70  -0.22   1. ... e5 2. e4 Nf6 3. Bd3 Na6 4. Nf3
+                                    Nc5 5. Nc3 Nxd3+ 6. cxd3 Bd6 7. O-O
+                                    O-O 8. Nb5 Qe7 9. Nxd6 Qxd6
+               17    10.06  -0.26   1. ... e5 2. e4 Nf6 3. Nc3 Nc6 4. Nf3
+                                    Bb4 5. Bd3 O-O 6. O-O d6 7. a3 Ba5
+                                    8. Bb2 Bg4 9. Nd5 Nd4 10. Bxd4 exd4
+               17->  19.45  -0.26   1. ... e5 2. e4 Nf6 3. Nc3 Nc6 4. Nf3
+                                    Bb4 5. Bd3 O-O 6. O-O d6 7. a3 Ba5
+                                    8. Bb2 Bg4 9. Nd5 Nd4 10. Bxd4 exd4
+White(0): b4
+unrecognized/illegal command: b4
+White(0): b3
+unrecognized/illegal command: b3
